@@ -1,2 +1,2 @@
-# Pet_BehaviorMonitoring_System
+# Pet_BehaviorMonitoring_system
 Capstone Design Project (2023)
