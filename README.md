@@ -1,14 +1,15 @@
 # Pet_BehaviorMonitoring_system
 Capstone Design Project (2023)
 
-# DMLAB_xy_data
+
+### DMLAB_xy_data.ipynb
 선행 연구에서 수집된 반려동물 행동에 대한 센서 데이터(자이로, 가속도, 지자계) 전처리
 
-# kaggle_xy_data
+### kaggle_xy_data.ipynb
 Kaggle에서 제공되는 반려동물 행동에 대한 센서 데이터(자이로, 가속도) 전처리
 
-# csv_processing
+### csv_processing.ipynb
 두 센서 데이터셋 전처리
 
-# Capston_final
+### Capston_final.ipynb
 모델 설계 및 훈련 진행
